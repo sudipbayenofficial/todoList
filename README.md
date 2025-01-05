@@ -1,6 +1,6 @@
-To-Do List Application
+##To-Do List Application
 
-Overview
+##Overview
 This is a simple yet feature-rich To-Do List application built using HTML, CSS, and JavaScript. The application allows users to add tasks with descriptions and deadlines, toggle between light and dark modes, and receive alarms when deadlines are reached.
 
 Features
